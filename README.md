@@ -51,7 +51,7 @@ As a manager at an internet retail company, I want a back end for my e-commerce 
 - PUT /api/products/:id - Update a product by ID.
 - DELETE /api/products/:id - Delete a product by ID.
 
-###T ags
+### Tags
 - GET /api/tags - Get all tags.
 - GET /api/tags/:id - Get a single tag by ID.
 - POST /api/tags - Create a new tag.
@@ -61,6 +61,10 @@ As a manager at an internet retail company, I want a back end for my e-commerce 
 ## Link to GitHub Repository:
 
 [https://github.com/ademonteverde/e-commerce_back_end](https://github.com/ademonteverde/e-commerce_back_end)
+
+## Link to video demo:
+
+[https://drive.google.com/file/d/1vHR89Kkbo0C6aMepnquy_ViE0sQkfiDd/view](https://drive.google.com/file/d/1vHR89Kkbo0C6aMepnquy_ViE0sQkfiDd/view)
 
 ## License
 
